@@ -1,0 +1,3 @@
+M:\UE4 Projects\Mastering Unreal Engine\Bellz\Bellz\Source\Bellz\Bellz.Build.cs
+M:\UE4 Projects\Mastering Unreal Engine\Bellz\Bellz\Source\Bellz.Target.cs
+M:\UE4 Projects\Mastering Unreal Engine\Bellz\Bellz\Source\BellzEditor.Target.cs
